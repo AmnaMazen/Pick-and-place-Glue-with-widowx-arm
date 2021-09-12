@@ -12,7 +12,7 @@ https://github.com/AmnaMazen/Widowx-arm-Move-Group-Python-Interface
 
 # Widowx arm's sequence of moves:
 
- * I divided this task into small 6 steps:
+ * I divided this task into 6 steps:
 
 1) Move gripper to be at the same level of the glue (same z-axis)
 2) Open gripper.
