@@ -3,7 +3,7 @@ In this tutorial, I will show you how to pick and place a Glue using Widowx arm.
 
 Author name: Amna Mazen Ali
 
-I uploded a video about step by step tutorial on Youtube:
+I uploded a video about step by step tutorial on Youtube: https://www.youtube.com/watch?v=lr4tKL37z60
 
 In this tutorial, I will use package created before in the following github link:
 https://github.com/AmnaMazen/Widowx-arm-Move-Group-Python-Interface
