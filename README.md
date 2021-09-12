@@ -23,7 +23,7 @@ https://github.com/AmnaMazen/Widowx-arm-Move-Group-Python-Interface
 
 * In every step, you should record the joints positions using the following command:
 
-$ sudo echo /joints_states -n1
+$ rostopic echo /joints_states -n1
 
 * There is a trick here since position output is not in the regular sequence [joint_1, joint_2,joint_3,joint_4,joint_5, gripper]. Instead it is [joint_3,joint_4,joint_5,gripper_joint,joint_1,joint_2]
 
